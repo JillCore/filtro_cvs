@@ -5,21 +5,6 @@
 
 Al ejecutarse 100% de forma local, **garantiza la privacidad absoluta** de los datos sensibles de los candidatos.
 
-## 🚀 Requisitos Previos
-
-Para que este script funcione, necesitas tener instalados:
-
-1. **Python 3.x**
-2. **Ollama**: Descárgalo desde [ollama.com](https://ollama.com/).
-3. **Modelo Phi-3**: Abre tu terminal y ejecuta: `ollama run phi3`
-
-## 📦 Instalación de Librerías
-
-Abre tu terminal y ejecuta el siguiente comando para instalar las dependencias necesarias:
-
-```bash
-pip install ollama pdfplumber pandas openpyxl
-
 ⚙️ Cómo usarlo
 Clona o descarga este repositorio.
 
@@ -36,7 +21,24 @@ python filtro_cvs.py
 Al finalizar, se generará un archivo llamado Reporte_Filtrado_HR.xlsx con la evaluación estructurada de cada candidato.
 
 📺 Mira el Tutorial Completo
-Si quieres ver la explicación paso a paso de cómo se construyó este código y cómo solucionar posibles errores, mira el video en mi canal de YouTube: 👉 [INSERTA AQUÍ EL LINK DE TU VIDEO DE YOUTUBE]
+Si quieres ver la explicación paso a paso de cómo se construyó este código y cómo solucionar posibles errores, mira el video en mi canal de YouTube: 👉 https://www.youtube.com/watch?v=rw0CmUR9r2A
 
 💬 Únete a la Comunidad
-Si tienes dudas o quieres debatir sobre automatización, únete a nuestra comunidad: 👉 [INSERTA AQUÍ TU LINK DE TELEGRAM]
+Si tienes dudas o quieres debatir sobre automatización, únete a nuestra comunidad: 👉 https://t.me/+aRGkH9vb369mM2Ex
+
+## 🚀 Requisitos Previos
+
+Para que este script funcione, necesitas tener instalados:
+
+1. **Python 3.x**
+2. **Ollama**: Descárgalo desde [ollama.com](https://ollama.com/).
+3. **Modelo Phi-3**: Abre tu terminal y ejecuta: `ollama run phi3`
+
+## 📦 Instalación de Librerías
+
+Abre tu terminal y ejecuta el siguiente comando para instalar las dependencias necesarias:
+
+```bash
+pip install ollama pdfplumber pandas openpyxl
+
+
